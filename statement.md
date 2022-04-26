@@ -1,7 +1,7 @@
 # Programmation procédurale
 
 Cette programmation consiste à rédiger un programme étape après étape qui sera exécuté en suivant dans le même ordre ces étapes.
-Prenons un exemple simple (en langage PHP) où on additionne les valeurs de 2 variables :.
+Prenons un exemple simple (en langage PHP) où on additionne les valeurs de 2 variables :
 
 ```php runnable
 <?php
